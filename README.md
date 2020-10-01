@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/rakshitraj/rakshitraj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshitraj&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshitraj&count_private=true&show_icons=true&theme=dark&layout=compact" />
 </a>
 <!--
 <a href="https://github.com/rakshitraj/rakshitraj">
