@@ -1,13 +1,15 @@
 ### Hi there, I'm Rakshit 👋
 
+
 <a href="https://github.com/rakshitraj/rakshitraj">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshitraj&count_private=true&show_icons=true&theme=dark" />
 </a>
+<!--
 <a href="https://github.com/rakshitraj/rakshitraj">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitraj&theme=dark&layout=compact" />
 </a>
 
-<!--
+
 **rakshitraj/rakshitraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
