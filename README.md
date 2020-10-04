@@ -1,11 +1,11 @@
 ### Hi there, I'm Rakshit 👋
 
+<p>
 <a href="https://github.com/rakshitraj/rakshitraj">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshitraj&count_private=true&show_icons=true&layout=compact" />
 </a>
-
-<p> 
-
+  
+<br>
 <a href="https://www.linkedin.com/in/rakshitraj/">
   <img align="left" alt="Rakshit's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
