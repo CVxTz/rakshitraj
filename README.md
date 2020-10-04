@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakshitraj&count_private=true&show_icons=true&layout=compact" />
 </a>
 
-<p> </p>
+<p> 
 
 <a href="https://www.linkedin.com/in/rakshitraj/">
   <img align="left" alt="Rakshit's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,6 +13,8 @@
 <a href="https://www.medium.com/@rakshitr/">
   <img align="left" alt="Rakshit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+</p>
 <!--
 <a href="https://github.com/rakshitraj/rakshitraj">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitraj&layout=compact" />
